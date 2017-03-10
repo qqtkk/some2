@@ -1,0 +1,49 @@
+##Theme - Boxy
+
+
+{
+	"always_show_minimap_viewport": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_top": 1,
+	"margin": 2,
+	"material_theme_accent_sky": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_separator": true,
+	"tab_size": 2,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_accent_sky": true,
+	"theme_autocomplete_item_selected_colored": true,
+	"theme_find_panel_size_xs": true,
+	"theme_font_sm": true,
+	"theme_icons_materialized": true,
+	"theme_scrollbar_rounded": true,
+	"theme_sidebar_border": true,
+	"theme_sidebar_close_always_visible": true,
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_indent_md": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_sidebar_size_xs": true,
+	"theme_size_sm": true,
+	"theme_statusbar_size_xs": true,
+	"theme_tab_close_always_visible": true,
+	"theme_tab_font_md": true,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_separator": true,
+	"theme_tab_size_sm": true,
+	"theme_unified": true,
+	"translate_tabs_to_spaces": true
+}
